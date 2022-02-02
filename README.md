@@ -1,1 +1,1 @@
-# -vue3-webpack-template
+# Vue3 템플릿 with Webpack
